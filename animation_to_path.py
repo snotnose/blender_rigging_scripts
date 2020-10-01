@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Animation to Path",
-    "author": "Bassam Kurdal, Tal Hershkovich",
+    "author": "Bassam Kurdali, Tal Hershkovich",
     "version": (0, 1),
     "blender": (2, 90, 0),
     "location": "View3D > Animation > Animation to Path",
